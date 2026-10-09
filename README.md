@@ -29,7 +29,7 @@ This project is useful for beginners learning conditional statements and user in
 git clone https://github.com/codexravi70/age-for-vote-checker.c.git
 cd age-for-vote-checker.c
 gcc age-for-vote-checker.c -o age-for-vote-checker
-./age-for-vote-checker
+./age-for-vote-checker'''
 
 
 4. Run the program.
