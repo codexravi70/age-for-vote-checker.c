@@ -10,11 +10,11 @@ int main()
     scanf("%d" ,&age);
     if(age>=18)
     {
-    printf("You Are Eligible To Vode\n");
+    printf("You Are Eligible To Vote\n");
     }
     else
     {
-    printf("You Are Not Eligible To Vode\n");
+    printf("You Are Not Eligible To Vote\n");
     }
     return 0;
 }
