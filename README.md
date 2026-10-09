@@ -37,12 +37,12 @@ gcc age-for-vote-checker.c -o age-for-vote-checker
 
    **Windows:**
    ```bash
-   vote_checker.exe
+   gcc age-for-vote-checker.exe
    ```
 
    **Linux/macOS:**
    ```bash
-   ./vote_checker
+   ./age-for-vote-checker
    ```
 
 ## 🧪 Sample Output
