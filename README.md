@@ -1,2 +1,112 @@
-# age-for-vote-checker.c
-A simple C program that checks voting eligibility based on age using if-else statements. Beginner-friendly project to practice basic C programming.
+# 🗳️ Age for Vote Checker in C
+
+A simple beginner-friendly C program that checks whether a person is eligible to vote based on their age.
+
+## 📌 About the Project
+
+**Age for Vote Checker** takes the user's age as input and determines voting eligibility using an `if-else` statement.
+
+- If the age is **18 or above**, the person is eligible to vote.
+- If the age is **below 18**, the person is not eligible to vote.
+
+This project is useful for beginners learning conditional statements and user input in C.
+
+## ✨ Features
+
+- Takes age as user input
+- Checks voting eligibility
+- Uses `if-else` conditional statements
+- Displays the result in the terminal
+- Simple and beginner-friendly
+
+## 💻 Source Code
+
+```c
+#include <stdio.h>
+#include <stdlib.h>
+
+int main()
+{
+    int age;
+
+    printf("Enter Your Age\n");
+    scanf("%d", &age);
+
+    if (age >= 18)
+    {
+        printf("You Are Eligible To Vote\n");
+    }
+    else
+    {
+        printf("You Are Not Eligible To Vote\n");
+    }
+
+    return 0;
+}
+```
+
+## ⚙️ Requirements
+
+- A C compiler (GCC recommended)
+- A code editor such as VS Code
+
+## 🚀 How to Run
+
+1. Save the program as `age for vote checker.c`.
+2. Open a terminal in the folder where the file is saved.
+3. Compile the program:
+
+   ```bash
+   gcc "age for vote checker.c" -o vote_checker
+   ```
+
+4. Run the program.
+
+   **Windows:**
+   ```bash
+   vote_checker.exe
+   ```
+
+   **Linux/macOS:**
+   ```bash
+   ./vote_checker
+   ```
+
+## 🧪 Sample Output
+
+**Example 1: Eligible to Vote**
+
+```text
+Enter Your Age
+20
+You Are Eligible To Vote
+```
+
+**Example 2: Not Eligible to Vote**
+
+```text
+Enter Your Age
+16
+You Are Not Eligible To Vote
+```
+
+## 🧠 Concepts Used
+
+- Variables and data types
+- `printf()` and `scanf()`
+- `if-else` statements
+- Comparison operator (`>=`)
+- Basic C program structure
+
+## 🎯 Learning Objective
+
+To understand decision-making in C programming and use conditional statements to solve a simple real-world problem.
+
+## 👨‍💻 Author
+
+**Ravi Kumar**
+
+## 📄 License
+
+This project is intended for learning and educational purposes.
+
