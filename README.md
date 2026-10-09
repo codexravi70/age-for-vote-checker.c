@@ -24,15 +24,13 @@ This project is useful for beginners learning conditional statements and user in
 - A C compiler (GCC recommended)
 - A code editor such as VS Code
 
-## 🚀 How to Run
+## How to Run
+```bash
+git clone https://github.com/codexravi70/age-for-vote-checker.c.git
+cd age-for-vote-checker.c
+gcc age-for-vote-checker.c -o age-for-vote-checker
+./age-for-vote-checker
 
-1. Save the program as `age for vote checker.c`.
-2. Open a terminal in the folder where the file is saved.
-3. Compile the program:
-
-   ```bash
-   gcc "age for vote checker.c" -o vote_checker
-   ```
 
 4. Run the program.
 
