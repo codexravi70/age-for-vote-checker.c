@@ -84,3 +84,5 @@ To understand decision-making in C programming and use conditional statements to
 ![image alt](https://github.com/codexravi70/age-for-vote-checker.c/blob/184d292065ef122304b36adc72f975461892f3b2/Screenshot_20261009_214248_Coding%20C.jpg)
 
 ## 📄 If Eligible
+
+![image alt](https://github.com/codexravi70/age-for-vote-checker.c/blob/b75f65b49b22b835b973b67bcc8e11d535a18d47/Screenshot_20261009_214325_Coding%20C.jpg)
