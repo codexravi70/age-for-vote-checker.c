@@ -79,7 +79,8 @@ To understand decision-making in C programming and use conditional statements to
 
 **Ravi Kumar**
 
-## 📄 License
+## 📄 If Not Eligible
 
-This project is intended for learning and educational purposes.
+![image alt](https://github.com/codexravi70/age-for-vote-checker.c/blob/184d292065ef122304b36adc72f975461892f3b2/Screenshot_20261009_214248_Coding%20C.jpg)
 
+## 📄 If Eligible
